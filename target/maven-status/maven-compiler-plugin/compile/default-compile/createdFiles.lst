@@ -1,0 +1,8 @@
+com\adidaschallenge\repository\UserRepository.class
+com\adidaschallenge\service\UserServiceImpl.class
+com\adidaschallenge\service\UserService.class
+com\adidaschallenge\SubsUserserviceApplication.class
+com\adidaschallenge\entity\User.class
+com\adidaschallenge\kafka\producer\Sender.class
+com\adidaschallenge\controller\UserController.class
+com\adidaschallenge\kafka\producer\SenderConfig.class

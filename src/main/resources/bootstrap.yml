@@ -1,0 +1,10 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: subs-userservice
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        service-id: subs-configservice
